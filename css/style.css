@@ -90,6 +90,7 @@ html {
   color: #fff;
   font-size: 16px;
   margin-bottom: 0.5em;
+  padding: 2em 2em;
 }
 .header__icons-item {
   margin: 0 5px;
@@ -143,6 +144,9 @@ html {
     width: 100%;
     background-image: none;
   }
+  .header__logo {
+    width: 170px;
+  }
   .header__text-title {
     margin-top: 35%;
     font-size: 2.8rem;
@@ -152,7 +156,7 @@ html {
     margin-right: 0;
     position: absolute;
     bottom: 15px;
-    right: 15px;
+    right: 0px;
   }
   .header__btn {
     width: 40%;
