@@ -39,7 +39,7 @@ html {
   height: 50%;
 }
 .header__hero-img {
-  background-image: url("/images/bg-mobile.svg");
+  background-image: url("../images/bg-mobile.svg");
   background-size: cover;
   width: 100%;
   max-height: 100%;
@@ -108,7 +108,7 @@ html {
   .header__main-box {
     width: 100%;
     height: 100vh;
-    background-image: url("/images/bg-desktop.svg");
+    background-image: url("../images/bg-desktop.svg");
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
